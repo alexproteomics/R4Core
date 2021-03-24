@@ -23,3 +23,7 @@ https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00173
 - **The rawrr R Package: Direct Access to Orbitrap Data and Beyond**  
 J. Proteome Res. Special Issue: Software Tools and Resources 2021
 https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00866
+
+- How to pronounce the package name the right way?](https://youtu.be/jBc2MniDBYw)
+
+
