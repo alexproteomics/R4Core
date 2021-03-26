@@ -4,6 +4,8 @@
 # R4Core - Direct Access to Orbitrap Data and Beyond
 R for Proteomics Core workshop
 
+This folder contains our isoslide presentation as Rmarkdown document (.Rmd file). Please use the [rmarkdown](https://github.com/rstudio/rmarkdown) package to knit the file into the desired output (html_document, ...).
+
 ## Example Data
 
 [MassIVE MSV000086542](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=575538e190e84cbfbf6c17aa1219e403)
